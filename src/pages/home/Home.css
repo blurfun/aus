@@ -1,0 +1,7 @@
+.home {
+  max-width: 100%;
+  margin: 0px auto;
+  background-image: url('/public/bg.jpg');
+  background-size: cover;
+  margin-top: -20px;
+}
