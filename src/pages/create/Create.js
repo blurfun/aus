@@ -3,7 +3,7 @@ import { useFetch } from '../../hooks/useFetch'
 import { useHistory } from 'react-router-dom'
 import SchoolsList from '../../components/SchoolsList'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Button } from 'react-bootstrap';
+
 
 // styles
 import './Create.css'

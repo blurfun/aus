@@ -11,7 +11,7 @@ import Students from './pages/students/Students'
 
 // styles
 import './App.css'
-import { useFetch } from './hooks/useFetch'
+
 
 function App() {
   return (
