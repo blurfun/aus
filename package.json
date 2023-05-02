@@ -1,6 +1,5 @@
 {
   "name": "cooking-ninja",
-  "homepage": "http://blurfun.github.io/test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
